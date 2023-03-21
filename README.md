@@ -12,7 +12,7 @@ Toad114514的第一个我的世界国际版材质包，臭死力（
 Toad114514和提供想法的人
 
 #### 下载
-(点我)[https://gitee.com/toadstool/xbres/releases]后，在出来的界面里选择需要的发行版本，并下载mcaddon/mcpack文件即可。
+[点我](https://gitee.com/toadstool/xbres/releases)后，在出来的界面里选择需要的发行版本，并下载mcaddon/mcpack文件即可。
 
 #### 想法库
 mcaddon/mcpack 文件里有一个叫think depot.txt的文件
