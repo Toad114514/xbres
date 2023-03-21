@@ -9,8 +9,10 @@ Toad114514的第一个我的世界国际版材质包，臭死力（
 下载了mcaddon/mcpack包后，点击下载完的文件并选择Minecraft（如果没有可到[这里](http://klpbbs.com/xz)下载对应的基岩版）导入
 导入后在Minecraft基岩版里选择设置 －>全局资源。在全局资源里点击xianbei resource，并下面点击上即可。
 #### 参与贡献
-
 Toad114514和提供想法的人
+
+#### 下载
+(点我)[https://gitee.com/toadstool/xbres/releases]后，在出来的界面里选择需要的发行版本，并下载mcaddon/mcpack文件即可。
 
 #### 想法库
 mcaddon/mcpack 文件里有一个叫think depot.txt的文件
