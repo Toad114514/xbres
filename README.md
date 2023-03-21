@@ -1,31 +1,24 @@
 # Xianbei Resource
 
 #### 介绍
-第一个我的世界国际版材质包，臭死力（恼
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Toad114514的第一个我的世界国际版材质包，臭死力（
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+本先辈材质包只可以使用于Minecraft基岩版1.0（早期版本可能最低支持1.6或其他，具体看releases的mcaddon/mcpack包）至基岩版最高版本
+不支持所有Java版和网易基岩版。
+下载了mcaddon/mcpack包后，点击下载完的文件并选择Minecraft（如果没有可到[这里](http://klpbbs.com/xz)下载对应的基岩版）导入
+导入后在Minecraft基岩版里选择设置 －>全局资源。在全局资源里点击xianbei resource，并下面点击上即可。
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+Toad114514和提供想法的人
 
+#### 想法库
+mcaddon/mcpack 文件里有一个叫think depot.txt的文件
+此文件将收集为xianbei resources提供想法的点子。
+如果你也要給xianbei resource提供想法的话，可以：
+1. 电子邮箱。给xiaolan2332021@163.com发邮件，邮件里写想法。
+2. QQ联系。通过添加QQ1723843631给本人私信发想法。
+想法库的其他东西可以在想法库的介绍中发现。
 
 #### 特技
 
