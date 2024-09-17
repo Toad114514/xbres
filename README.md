@@ -1,11 +1,11 @@
 # Xianbei Res
 ![XianbeiRes t2.6](https://toad114514.github.io/img/wb/xbres.png)
-<center>[![Stars](https://img.shields.io/github/stars/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/status)
+[![Stars](https://img.shields.io/github/stars/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/status)
 [![Forks](https://img.shields.io/github/forks/Toad114514/xbres.svg)](https://github.com/Toad114514/Toad114514/network/members)
 [![Issues](https://img.shields.io/github/issues/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/issues)
-[![Watchers](https://img.shields.io/github/watchers/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/watchers)</center>
-<center>ByToad114514 2022/5 - 2024/9</center>
-<center>[历代所有XianbeiRes](https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion)</center>
+[![Watchers](https://img.shields.io/github/watchers/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/watchers)
+ByToad114514 2022/5 - 2024/9
+[历代所有XianbeiRes](https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion)
 # 生草时间
 Minecraft基岩版v1.21生草材质包
 2年历史，历经百般磨难
