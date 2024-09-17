@@ -1,0 +1,33 @@
+{
+  "format_version": 1,
+   "metadata": {
+    "authors": ["Toad114514","笛子","心态真的不好","自卑了","有事玩宾州"]
+  },
+  "header": {
+    "description": "生草材质包 ByToad114514",
+    "name": "§1X§2i§3a§4n§5b§6e§7i§8R§9e§as §bt2.6-fresh",
+    "uuid": "e27305f9-791b-4325-b490-336c5d2e48cc",
+    "version": [
+      2,
+      6,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      2,
+      6
+    ]
+  },
+  "modules": [
+    {
+      "description": "alpha最后的TestPhase版本，旧时代，结束力(悲) byToad114514",
+      "type": "resources",
+      "uuid": "d641328e-acf4-489a-81ce-988bb8e4ebac",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

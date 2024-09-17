@@ -1,0 +1,301 @@
+XianbeiRes 更新日志
+
+注：本日志时间从旧至新更新，最近的更新日志请翻到下面
+
+最新的更新日志将直接写在此处：
+2024/8/13 - 2024/9/14 t2.6-fresh
+方块更新
+ - 沙子 -> 祖卡
+生物更新 (学会用blockbench力)
+ - 蜜蜂 -> 科bee
+ - 鸡哥 -> 鸡哥（穿背带裤）
+ - 僵尸 -> 华强
+ - 史莱姆内核 -> 张浩
+其他贴图
+ - 信标光柱 -> 咸鱼梦想家
+声音/背景音修改
+ - 鸡哥的叫声 -> 蔡徐坤
+ - 唱片 mellohi & menu1 -> 孤高曼波
+修改文件
+ - new.txt -> changlog.txt
+ - think depot.txt -> think.txt
+ - 重写 README.txt
+主题包 - Xianbei Pie (Rainbow Pie主题)
+ - 更新背景
+ - 更新部分文字
+修改文本
+ - 修改部分加载文字
+ - 修改部分设置文字
+
+最新的 Pre-Releases 为 t2.1 (build2210)：
+更新标题提示(可能无反应)
+修改标题
+修改背景阴乐到主页面
+ - 坤曲
+新唱片
+ - C418 - 11 -> Bailin'
+新方块
+ - 陈这类
+ - 黑人辛吉飞(本来还想着加个何同学)
+ - 淳平傻笑
+更新6条新游戏进入提醒
+移除了him
+
+###################
+-------以下是更新日志--------
+###################
+
+2022.10.09 xianbei Res rainbow a1.1
+改ui：标题、新建地图测试
+图画
+op图
+苦力怕
+僵尸
+
+2022.10.10 xianbei Res rainbow a1.2(build1326)
+改ui，创建新世界图、任务栏8、背包栏三项图标
+修复环境图bug
+改提示
+
+2022.10.19 
+xianbei Res rainbow a1.3(build1537)for 10.20
+引入想法库中"深渊咏者•紫电""笛子"和"低调点儿"想出来的3个想法
+加入音乐 slic.hertz 到唱片 cat
+缩小材质包大小(能做到6M以下都nb了)
+修改物品高炉、gui贴图
+修改泥土、基岩、石头贴图用于区分
+使用新图标
+
+xianbei Res rainbow a1.3(build1537)Notbugs Edition
+修复bugs：
+"烂贱洗发水"显示贴图位置错误bug
+"嘟略略凉茶"贴图消失和文字没修改bug
+"嘟略略凉茶"贴图缩小到64x64
+文字修改：一部分死亡提示等
+改阳光传感器、地图背景贴图
+允许方块改成前名爷
+(允许方块需要用指令give @s deny_block获取)
+
+xianbei Res rainbow a1.4(build1632) for 22/10/30
+引入"深渊咏者•紫电""低调点儿""Toad114514" 个想法
+   •深渊咏者•紫电
+      •烂贱牛奶
+      •烂贱可乐
+      •外研版英语六年级上册(三年级起点)
+   •笛子
+      •烂贱可乐
+   •Toad114514
+      •Toad114514头像
+      •蔡徐坤
+      •Castle [New Super Mario Bros. U] - Super Mario Maker 2 Loop
+  (具体改了哪里，找think depot.txt里的a1.4想法库)
+绿宝石变成RMB(来自"笛子")
+物品大整顿(大部分物品贴图缩小成64x64)
+文字修改
+
+xianbei Res rainbow experimental 1.0(exper10)
+-----版本和示例视频不发布-----
+包括a1.4的更新日志
+改ui样子
+32x32贴图测试
+
+xianbei Res rainbow a1.5 testingPhase(build1728)
+-----版本和示例视频不发布-----
+引入a1.4想法库里除打✓外的其他想法(有些没加入)
+
+xianbei Res rainbow a1.5 for Mr.gong(build1728)
+-----版本为公德心(指“笛子”)特供版-----
+-----需一些关于公德心的材质文件发到Toad114514-----
+拥有a1.5 testingPhase的更新内容
+引入a1.5 想法库的想法
+   深渊咏者•紫电
+      •哲学美食家
+      •恶臭工地先锋
+重绘部分材质
+文字修改
+图画修改
+更多的公得心
+支持1.5以上的Minecraft Bedrock Edition
+
+xianbei Res rainbow experimental 1.1(exper20)
+----不发布文件和示例视频-----
+拥有a1.5 for Mr.gong(build1728)的更新
+第二次ui测试
+MCBE1.6.1材质测试
+
+xianbei Res Restart b221109(LateStand)
+-----不发布文件和示例视频-----
+重绘了材质
+
+xianbei Res rainbow a1.6testPhase(build1828-221112)
+-----尽情期待...-----
+
+Xianbei Res a1.6 TPhase(build1828-221115)
+更新了文字
+
+xianbei Res rainbow b221109 for PSP(build1000)
+-----文件不发布-----
+结构重改
+
+xianbei Res a1.6 - Lanjian World(build1828)
+-----更新主题：烂贱-----
+重改名字
+文字修改
+引入想法（全部）
+
+xianbei Res rainbow b221118 for PSP(build1100)
+-----文件和示例视频不发布-----
+拥有a1.6的更新内容
+<- 放弃更新，会崩 ->
+
+xianbei Res a1.7 - Homo’s Backing(build1999)
+-----更新主题：先辈-----
+引入想法库
+冰红茶！！！(Is a bugger,I don't found it!)
+文字修改
+gui修改
+
+xianbei Res a1.8 TestPhase(build2000)
+---尽情期待...---
+
+xianbei Res a1.8 NewList (build2000)
+---文件不发布---
+ui修改
+
+xianbei Res a1.8 (build2000)
+---冬天主题---
+引入想法库(除了鸡叫转蔡徐坤)
+先辈的加入(事雪罢)
+物品修改
+
+xianbei Res a1.81 - TestToUs(大家测试) 
+build 2001-2013
+引入想法库
+
+xianbei Res a1.82 - Debated(德罢特)
+build 2014-2019
+引入想法库
+修改图标和标题
+
+xianbei Res a1.9 Cuckoo(不咕(布谷)鸟)
+---build2168 - 2174---
+更新月亮、ui/gui、文字
+添加 喜庆的音乐 到唱片 wait
+移除了him
+
+2023/03/29 
+t2.0 b2303 Metro
+build 2179-2194
+移除了him
+
+2023/09/12
+23w02a Intend
+build 2195-2197
+更新背景阴乐到主页面
+ - Supertux0.6.3开头背景音乐
+ - 超马3d世界背景音乐
+更新文字
+移除了him
+
+2023/09/16
+23w03a Symbol(符号)
+build 2198
+更新文字，修复bug
+移除了him
+
+2023/09/16
+23w03a Symbol Plugin - Arok Ui
+build-157-piugin
+Arok Ui 支持
+移除了him
+
+2023/09/15-17
+23w03a Symbol 第二版
+build 2199b1-3
+删除了部分音效
+简化材质包
+更新方块
+ - 传送门 -> 工地先锋
+ - 玻璃 -> 陈这类
+ - 萤石灯 -> 工地先锋
+ - 屏障 -> 大摇大摆张浩
+ - 甜浆果(第三阶段) -> 张浩
+ - 砖块 -> 如郑瑞
+更新死亡文字
+隐藏材质更新
+ - env/overworld_cubemap -> 工地先锋
+移除了him
+
+2023/9/25
+t2.0 正式版 (build 2200)
+加入用户使用协议
+先辈材质包正式以 GNUv3 协议开源
+移除了him
+
+2023/10/10
+t2.1 Pre-Releases (build 2210)
+更新标题提示(可能无反应)
+修改标题
+修改背景阴乐到主页面
+ - 坤曲
+新唱片
+ - C418 - 11 -> Bailin'
+新方块
+ - 陈这类
+ - 黑人辛吉飞(本来还想着加个何同学)
+ - 淳平傻笑
+更新6条新游戏进入提醒
+移除了him
+
+2024/03/09
+t2.2 Accept 接纳
+更新部分等待文字
+修改主菜单背景
+修改贴图
+ - 材质设置图标 点击变成 元气骑士前传齿轮
+物品化Ui控件
+增加部分文件用于指引
+新碟子
+ - MONEY IN MY POCKET
+ - Everywhere We Go
+ - 徐佳莹-身骑白马DJ（ FunkyHouse Rmx 车载版）
+修改主页面背景音乐
+ - SimpsonWave1995 (Slowed + Reverbed)
+修复部分碟子太大Bugs
+移除了him
+
+2024/3/28
+t2.4-ChiLun
+ /该版本纪念早期元气骑士前传的土豆服务器\
+/    特有的连不上服务器就会出现齿轮旋转   \
+ 文字修改再次神经化
+ 标题音乐修改
+  - 齿轮骑士的小曲
+ 迟缓药水 -> 齿轮之力
+ 新的背景
+ 继续完善新ui材质包
+ 加入并调试 CGK Shader 高级渲染器
+  - 需要在 cgk 文件夹里手动打开，具体看文件
+    夹里的 readme.txt
+ 移除him
+
+2024/7/2 t2.5-Xrat32
+原版Ui加入先辈材质包版本信息
+新增重制版 ArokUi 扩展包 (独立包)
+ - Android Material Design 配色方案
+ - 又烂又贱的图片修改
+ - 无音乐修改
+材质修改
+ - 修改 bug_pack_icon (错误包图标) -> 陈家乐的疑问
+ - 修改指针图片文件
+ - 修改煮熟的鸡 -> cxk
+ - 主界面背景旋转嫩祖卡
+ - 祖卡同款图腾
+音乐/音效修改
+ - 修改主界面背景音乐为 Hell Shell(岭城手机哥处刑曲)
+ - 嫩祖卡图腾特有音效
+ - 补充鸡的音效音效
+ui更新
+ - 添加背景
+移除了him
+--- end ---
