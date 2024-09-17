@@ -1,9 +1,9 @@
 # Xianbei Res
 ![XianbeiRes t2.6](https://toad114514.github.io/img/wb/xbres.png)
-<div align="center">[![Stars](https://img.shields.io/github/stars/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/status)
-[![Forks](https://img.shields.io/github/forks/Toad114514/xbres.svg)](https://github.com/Toad114514/Toad114514/network/members)
-[![Issues](https://img.shields.io/github/issues/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/issues)
-[![Watchers](https://img.shields.io/github/watchers/Toad114514/xbres.svg)](https://github.com/Toad114514/xbres/watchers)
+<div align="center">![Stars](https://img.shields.io/github/stars/Toad114514/xbres.svg)
+![Forks](https://img.shields.io/github/forks/Toad114514/xbres.svg)
+![Issues](https://img.shields.io/github/issues/Toad114514/xbres.svg)
+![Watchers](https://img.shields.io/github/watchers/Toad114514/xbres.svg)
 [历代所有XianbeiRes](https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion)</div>
 # 生草时间
 Minecraft基岩版v1.21生草材质包
