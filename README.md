@@ -1,5 +1,5 @@
 # Xianbei Res
-![XianbeiRes t2.6](https://toad114514.github.io/img/wb/xbres.png)
+![XianbeiRes t2.7](https://toad114514.github.io/img/wb/xianbei-2.7.png)
 <div align="center"><img src="https://img.shields.io/github/stars/Toad114514/xbres.svg"><a href="https://github.com/Toad114514/xbres/status"/></img>
 <img src="https://img.shields.io/github/forks/Toad114514/xbres.svg"/>
 <img src="https://img.shields.io/github/issues/Toad114514/xbres.svg"/>
@@ -14,30 +14,24 @@ Minecraft基岩版v1.21生草材质包
 先辈与其他内容的终极融合
 让你的世界更加生草！
 <h1>新内容变更</h1>
-<code>t2.6-fresh</code>
+<code>t2.7-nger</code>
 <code>
-方块更新
- - 沙子 -> 祖卡
-生物更新 (学会用blockbench力)
- - 蜜蜂 -> 科bee
- - 鸡哥 -> 鸡哥（穿背带裤）
- - 僵尸 -> 华强
- - 史莱姆内核 -> 张浩
-其他贴图
- - 信标光柱 -> 咸鱼梦想家
-声音/背景音修改
- - 鸡哥的叫声 -> 蔡徐坤
- - 唱片 mellohi & menu1 -> 孤高曼波
-修改文件
- - new.txt -> changlog.txt
- - think depot.txt -> think.txt
- - 重写 README.txt
-主题包 - Xianbei Pie (Rainbow Pie主题)
- - 更新背景
- - 更新部分文字
-修改文本
- - 修改部分加载文字
- - 修改部分设置文字
+新实体
+ - 觉醒龚 (a1.8想法库获取，两年啊两年)
+ - 神鹰哥（包括音效和紫色潜影盒贴图）
+新方块/贴图
+ - 深色原木门 -> 牢大肘击门
+ - 火把 -> 工地先
+ - 云贴图 -> 工地先（有概率遇见）
+优化
+ - 生物蛋合理化（对应修改生物的生物蛋改名和贴图）
+ - 新建 sound_definitions.json 用于定义音效
+新唱片
+ - TRASHXRL/Mc Delux - Orquestra Maldita
+新主页音乐
+ - 广西大师 -> AURA
+更新主页背景和图标
+更新部分加载文字
 </code>
 mcpack可到历代版本链接/GitHub Release获取
 <h1>鸣谢</h1>
