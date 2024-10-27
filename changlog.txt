@@ -3,29 +3,8 @@ XianbeiRes 更新日志
 注：本日志时间从旧至新更新，最近的更新日志请翻到下面
 
 最新的更新日志将直接写在此处：
-2024/8/13 - 2024/9/14 t2.6-fresh
-方块更新
- - 沙子 -> 祖卡
-生物更新 (学会用blockbench力)
- - 蜜蜂 -> 科bee
- - 鸡哥 -> 鸡哥（穿背带裤）
- - 僵尸 -> 华强
- - 史莱姆内核 -> 张浩
-其他贴图
- - 信标光柱 -> 咸鱼梦想家
-声音/背景音修改
- - 鸡哥的叫声 -> 蔡徐坤
- - 唱片 mellohi & menu1 -> 孤高曼波
-修改文件
- - new.txt -> changlog.txt
- - think depot.txt -> think.txt
- - 重写 README.txt
-主题包 - Xianbei Pie (Rainbow Pie主题)
- - 更新背景
- - 更新部分文字
-修改文本
- - 修改部分加载文字
- - 修改部分设置文字
+2024/10/27 t2.7-nger
+
 
 最新的 Pre-Releases 为 t2.1 (build2210)：
 更新标题提示(可能无反应)
@@ -298,4 +277,28 @@ t2.4-ChiLun
 ui更新
  - 添加背景
 移除了him
+
+2024/8/13 - 2024/9/14 t2.6-fresh
+方块更新
+ - 沙子 -> 祖卡
+生物更新 (学会用blockbench力)
+ - 蜜蜂 -> 科bee
+ - 鸡哥 -> 鸡哥（穿背带裤）
+ - 僵尸 -> 华强
+ - 史莱姆内核 -> 张浩
+其他贴图
+ - 信标光柱 -> 咸鱼梦想家
+声音/背景音修改
+ - 鸡哥的叫声 -> 蔡徐坤
+ - 唱片 mellohi & menu1 -> 孤高曼波
+修改文件
+ - new.txt -> changlog.txt
+ - think depot.txt -> think.txt
+ - 重写 README.txt
+主题包 - Xianbei Pie (Rainbow Pie主题)
+ - 更新背景
+ - 更新部分文字
+修改文本
+ - 修改部分加载文字
+ - 修改部分设置文字
 --- end ---
