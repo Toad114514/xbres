@@ -1,0 +1,105 @@
+{
+    "format_version": "1.20.20",
+    "sound_definitions": {
+        // 潜鹰贝 高级音效定义
+        "mob.shulker.ambient": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/ambient1",
+                "sounds/mob/shulker/ambient2",
+                "sounds/mob/shulker/ambient3",
+                "sounds/mob/shulker/ambient4",
+                "sounds/mob/shulker/ambient5"
+            ]
+        },
+        "mob.shulker.close": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/close1"
+            ]
+        },
+        "mob.shulker.close.hurt": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/hurt1",
+                "sounds/mob/shulker/hurt2",
+                "sounds/mob/shulker/hurt3",
+                "sounds/mob/shulker/hurt4"
+            ]
+        },
+        "mob.shulker.death": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/death1"
+            ]
+        },
+        "mob.shulker.hurt": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/hurt1",
+                "sounds/mob/shulker/hurt2",
+                "sounds/mob/shulker/hurt3",
+                "sounds/mob/shulker/hurt4"
+            ]
+        },
+        "mob.shulker.open": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/shulker/open1",
+                "sounds/mob/shulker/open2"
+            ]
+        },
+        "mob.shulker.shoot": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                {
+                    "name": "sounds/mob/shulker/shoot1",
+                    "volume": 2.0
+                },
+                {
+                    "name": "sounds/mob/shulker/shoot2",
+                    "volume": 2.0
+                },
+                {
+                    "name": "sounds/mob/shulker/shoot3",
+                    "volume": 2.0
+                },
+                {
+                    "name": "sounds/mob/shulker/shoot4",
+                    "volume": 2.0
+                }
+            ]
+        },
+        "mob.shulker.teleport": {
+            "__use_legacy_max_distance": "true",
+            "category": "hostile",
+            "max_distance": null,
+            "min_distance": null,
+            "sounds": [
+                "sounds/mob/endermen/shoot1",
+                "sounds/mob/endermen/shoot2"
+            ]
+        }
+    }
+}
