@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/issues/Toad114514/xbres.svg"/>
 <img src="https://img.shields.io/github/watchers/Toad114514/xbres.svg"/><br>
 ByToad114514 2022/5 - 2024/10<br>
-<a href="https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion">历代所有 XianbeiRes</a><a href="https://gitee.com/toadstool/xbres">Gitee 镜像</a><a href="https://github.com/toad114514/xbres/branch/xianbei/vers.md">发行版本概述</a></div>
+<a href="https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion">历代所有 XianbeiRes</a> | <a href="https://gitee.com/toadstool/xbres">Gitee 镜像</a> | <a href="https://github.com/Toad114514/xbres/blob/xianbei/vers.md">发行版本概述</a></div>
 <h1>生草时间</h1>
 Minecraft基岩版v1.21生草材质包
 2年历史，历经百般磨难
