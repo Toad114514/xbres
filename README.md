@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/github/forks/Toad114514/xbres.svg"/>
 <img src="https://img.shields.io/github/issues/Toad114514/xbres.svg"/>
 <img src="https://img.shields.io/github/watchers/Toad114514/xbres.svg"/><br>
-ByToad114514 2022/5 - 2024/9<br>
-<a href="https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion">历代所有 XianbeiRes</a></div>
+ByToad114514 2022/5 - 2024/10<br>
+<a href="https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion">历代所有 XianbeiRes</a><a href="https://gitee.com/toadstool/xbres">Gitee 镜像</a><a href="https://github.com/toad114514/xbres/branch/xianbei/vers.md">发行版本概述</a></div>
 <h1>生草时间</h1>
 Minecraft基岩版v1.21生草材质包
 2年历史，历经百般磨难
@@ -13,6 +13,16 @@ Minecraft基岩版v1.21生草材质包
 见证了作者的材质包修改技术更新
 先辈与其他内容的终极融合
 让你的世界更加生草！
+<h1>安装 XianbeiRes</h1>
+<h2>浏览器</h2>
+<ul>
+<li>仓库右上角的 Code -> Download Zip，接着使用你的解压工具解压到我的世界的材质包文件夹</li><li>在 Github Releases 中下载mcpack文件并使用Minecraft打开</li><li>进入<a href="https://pan.huang1111.cn/s/m78eS1?path=%2Fxbres-clone%2Fversion">历代所有 XianbeiRes</a>中下载对应版本的mcpack文件并以Minecraft打开</li>
+</ul>
+<h2>Termux</h2>
+<code>
+pkg install git && git clone https://github.com/toad114514/xbres && mv xbres /storage/emulated/0/Android/data/com.mojang.minecraftpe.patch/files/games/com.mojang/resource_packs/xbres
+</code>
+国内克隆仓库速度慢，可将代码中的 <b>https://github.com/toad114514/xbres</b> 修改成 <b>https://gitee.com/toadstool/xbres</b>
 <h1>新内容变更</h1>
 <code>t2.7-nger</code>
 <code>
